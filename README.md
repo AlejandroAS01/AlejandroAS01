@@ -12,6 +12,7 @@ Mi instituto es el Severo Ochoa en Elche
 Me gusta programar en Python
 ## Donde encontrarme
 Me puedes encontrar en:
+Calle donde vivo actualmente
 
 
 Un comando que no hay que olvidar es 'python manage.py runserver', y siempre se me olvida.
