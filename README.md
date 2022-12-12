@@ -14,10 +14,9 @@ Me gusta programar en Python
 Me puedes encontrar en:
 Calle donde vivo actualmente
 
-
+## Que hay que tener en cuenta
 Un comando que no hay que olvidar es 'python manage.py runserver', y siempre se me olvida.
 Otras tecnologías que he aprendido han sido:
-
 *SQL
 *Java básico
   1.Clases
