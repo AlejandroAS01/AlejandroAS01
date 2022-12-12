@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Soy un estudiante de 2ºDaw que estoy aprendiendo Github y Markdown
 Mi instituto es el Severo Ochoa en Elche
 
-![Foto del frontal del instituto](s8a.jpeg)
+![Foto del frontal del instituto](https://www.fpelx.es/wp-content/uploads/2021/02/WhatsApp-Image-2021-05-21-at-20.30.246.jpeg)
 ## Que estoy aprendiendo
 Me gusta programar en Python
 ## Donde encontrarme
